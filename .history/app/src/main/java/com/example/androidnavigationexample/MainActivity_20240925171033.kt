@@ -1,4 +1,4 @@
-    package com.example.androidnavigationexample
+package com.example.androidnavigationexample
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
